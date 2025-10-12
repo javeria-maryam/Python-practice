@@ -1,0 +1,11 @@
+OrderID,Customer,Product,Quantity,Price,Region,Total sale
+101,Ali,Laptop,2.0,80000,Karachi,160000.0
+102,Sara,Headphones,1.0,3500,Lahore,3500.0
+103,Omar,Mouse,1.25,1200,Islamabad,1500.0
+104,Sara,Keyboard,1.0,2500,Lahore,2500.0
+105,Hassan,Laptop,1.0,80000,Karachi,80000.0
+106,Amina,Monitor,2.0,30000,Karachi,60000.0
+107,Omar,Mouse,1.25,1200,Islamabad,1500.0
+108,Ali,Keyboard,1.0,2500,Karachi,2500.0
+109,Sara,Laptop,1.0,80000,Lahore,80000.0
+110,Hassan,Monitor,1.0,30000,Karachi,30000.0
