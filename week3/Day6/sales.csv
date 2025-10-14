@@ -1,0 +1,11 @@
+Date,Product,Quantity,Price,Discount,City
+2025-01-01,Laptop,2,1000,5,Lahore
+2025-01-02,Mouse,5,20,0,Karachi
+2025-01-03,Keyboard,3,50,10,Lahore
+2025-01-04,Laptop,1,950,5,Islamabad
+2025-01-05,Mouse,2,25,0,Karachi
+2025-01-06,Laptop,1,1000,10,Lahore
+2025-01-07,Keyboard,2,45,0,Islamabad
+2025-01-08,Mouse,,25,5,Karachi
+2025-01-09,Laptop,2,,5,Lahore
+
